@@ -1,0 +1,116 @@
+﻿////////////////////////////////////////////////////////////////////////////////
+
+
+//                   ArcSoftFace SDK 		                             //
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+Introduction:
+
+
+ArcSoftFace SDK provides the universal interfaces to detect different face feature.
+
+
+
+
+
+Publish date:
+
+
+10/10/2019
+
+
+Version:
+
+2.2.2
+
+Supported platform:
+
+
+arm64 armv7 armv7s
+
+
+
+Compile Options:
+
+
+default
+
+
+
+Dependency:
+
+
+None
+
+
+
+
+
+Known issues:
+
+
+None.
+
+
+
+
+
+File List:
+
+|---doc
+
+
+|   |---appledoc   		                               离线版appledoc文档
+
+
+|   |---ARCSOFT_FACE_SDK_DEVELOPER'S_GUIDE.PDF         开发说明文档
+
+
+|---lib
+
+
+|   |---ArcSoftFaceEngine.framework                    framework文件
+
+
+|---samplecode
+
+
+|   |---ArcSoftFaceEngineDemo                          示例代码
+
+
+|---releasenotes.txt                                   说明文件
+
+
+
+
+
+Change Logs:
+
+
+Initial version
+
+
+
+
+
+2019/10/09
+
+
+
+1. 支持iOS13
+
+
+2. 优化编译设置
+
+
+
+2019/10/10
+
+
+1. 修改外部版本号
